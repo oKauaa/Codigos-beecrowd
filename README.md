@@ -1,2 +1,3 @@
 # Codigos-beecrowd
-31 códigos da Atividade prática Beecrowd by Kaua
+33 códigos da Atividade prática Beecrowd by Kaua
+códigos listados com seus respectivos nomes na plataforma beecrowd.
